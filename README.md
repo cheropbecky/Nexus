@@ -7,7 +7,7 @@ A request tracking web app built for the PhotoMed Software Engineering Attachmen
 - **Full name:** Cherop Becky Kiptanui
 - **Email:** cheropbecky348@gmail.com
 - **Live URL:** https://nexus-livid-eta.vercel.app/
-- **GitHub repo:** []
+- **GitHub repo:** https://github.com/cheropbecky/Nexus.git
 - **Tech stack:** React (Vite), Tailwind CSS, React Router, lucide-react
 
 ## What this project does
@@ -34,7 +34,7 @@ Nexus lets anyone submit a request through a form (name, email, product/company,
 ## How to run it locally
 
 ```bash
-git clone <>
+git clone https://github.com/cheropbecky/Nexus.git
 cd nexus
 npm install
 npm run dev
