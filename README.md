@@ -6,7 +6,7 @@ A request tracking web app built for the PhotoMed Software Engineering Attachmen
 
 - **Full name:** Cherop Becky Kiptanui
 - **Email:** cheropbecky348@gmail.com
-- **Live URL:** [add your deployed URL here once deployed]
+- **Live URL:** https://nexus-livid-eta.vercel.app/
 - **GitHub repo:** []
 - **Tech stack:** React (Vite), Tailwind CSS, React Router, lucide-react
 
