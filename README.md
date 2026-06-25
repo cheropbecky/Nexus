@@ -1,4 +1,4 @@
-# Nexus — Request Tracker
+# Nexus Request Tracker
 
 A request tracking web app built for the PhotoMed Software Engineering Attachment assessment. Users can submit a request — a bug, feature idea, piece of feedback, partnership inquiry, or something else — and the team can view, search, filter, and manage the status of every request that comes in.
 
@@ -7,7 +7,7 @@ A request tracking web app built for the PhotoMed Software Engineering Attachmen
 - **Full name:** Cherop Becky Kiptanui
 - **Email:** cheropbecky348@gmail.com
 - **Live URL:** [add your deployed URL here once deployed]
-- **GitHub repo:** [add your repo link here]
+- **GitHub repo:** []
 - **Tech stack:** React (Vite), Tailwind CSS, React Router, lucide-react
 
 ## What this project does
@@ -34,7 +34,7 @@ Nexus lets anyone submit a request through a form (name, email, product/company,
 ## How to run it locally
 
 ```bash
-git clone <your-repo-url>
+git clone <>
 cd nexus
 npm install
 npm run dev
